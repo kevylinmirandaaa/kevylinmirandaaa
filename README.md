@@ -5,6 +5,7 @@ Software Engineering | Backend Development | C# & .NET
 I’m a technology professional with a background in process analysis, quality management, operational support, and team leadership.
 
 My professional experience at Quality Digital, a technology services partner of Grupo Boticário, has strengthened my analytical thinking, problem-solving skills, and understanding of business processes.
+
 I’m currently focusing on Software Engineering, particularly backend development, software architecture, and building reliable, maintainable applications.
 
 🎓 Education
@@ -35,6 +36,6 @@ SAP · Automation Edge · Power BI · Figma
 * Applying testing, version control, and clean coding practices
 * Developing practical projects that demonstrate engineering skills
 
-📫 Connect With Me
+📫 Connect With Me [LinkedIn](https://www.linkedin.com/in/kevylin-miranda-dos-santos-32bb4a200)
 
 LinkedIn

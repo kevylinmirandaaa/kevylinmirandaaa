@@ -4,8 +4,7 @@ Software Engineering | Backend Development | C# & .NET
 
 I’m a technology professional with a background in process analysis, quality management, operational support, and team leadership.
 
-My professional experience at Quality Digital, working with Grupo Boticário, has strengthened my analytical thinking, problem-solving skills, and understanding of business processes.
-
+My professional experience at Quality Digital, a technology services partner of Grupo Boticário, has strengthened my analytical thinking, problem-solving skills, and understanding of business processes.
 I’m currently focusing on Software Engineering, particularly backend development, software architecture, and building reliable, maintainable applications.
 
 🎓 Education

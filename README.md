@@ -1,5 +1,5 @@
 ## 
-# Hi, I'm Kevylin Miranda! 👋
+# Hi, I'm Kevylin Miranda!👋
 
 ### Software Engineering | Software Architecture | Backend & Data
 

@@ -1,13 +1,13 @@
 ## 
 # Hi, I'm Kevylin Miranda! 👋
 
-### Software Engineering | Backend Development | C# & .NET
+### Software Engineering | Software Architecture | Backend & Data
 
-I'm a technology professional with a background in process analysis, quality management, operational support, and team leadership.
+I’m a technology professional with a background in process analysis, quality management, team leadership, continuous improvement, and data-driven decision-making.
 
-My professional experience at Quality Digital, a technology services partner of Grupo Boticário, has strengthened my analytical thinking, problem-solving skills, and understanding of business processes.
+My professional experience at Quality Digital, a technology services partner of Grupo Boticário, has strengthened my analytical thinking, problem-solving abilities, business understanding, and experience in team development and performance management.
 
-I'm currently focusing on Software Engineering, particularly backend development, software architecture, and building reliable, maintainable applications.
+I’m currently expanding my technical expertise in Software Engineering, with a focus on backend development, software architecture, and building reliable, scalable, and maintainable applications.
 
 ---
 

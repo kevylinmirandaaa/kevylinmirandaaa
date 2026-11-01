@@ -1,61 +1,70 @@
-## 
-# Hi, I'm Kevylin Miranda!👋
+# Hi, I'm Kevylin Miranda! 👋
 
-### Software Engineering | Software Architecture | Backend & Data
+### Software Engineering | Software Architecture | Technology & Business
 
-I’m a technology professional with a background in process analysis, quality management, team leadership, continuous improvement, and data-driven decision-making.
+I'm a technology professional with a background in process analysis, quality management, team leadership, continuous improvement, and data-driven decision-making.
 
-My professional experience at Quality Digital, a technology services partner of Grupo Boticário, has strengthened my analytical thinking, problem-solving abilities, business understanding, and experience in team development and performance management.
+My experience at Quality Digital, a technology services partner of Grupo Boticário, has strengthened my analytical thinking, problem-solving skills, and understanding of business needs.
 
-I’m currently expanding my technical expertise in Software Engineering, with a focus on backend development, software architecture, and building reliable, scalable, and maintainable applications.
-
----
+I'm building my career in Software Engineering, combining my professional experience with technical development skills to design reliable, scalable, and maintainable software solutions.
 
 ## 🎓 Education
 
-- **Degree in Systems Analysis and Development**
-- **MBA in Data Science & Artificial Intelligence** — UNINTER | Completed
-- **MBA in Software Engineering** — UTFPR | In progress
-- **Postgraduate Studies in Cloud Computing & DevOps** — UNINTER | In progress
+- *Degree in Systems Analysis and Development* — Completed
+- *MBA in Data Science & Artificial Intelligence* — UNINTER | Completed
+- *MBA in Software Engineering* — UTFPR | In progress
+- *Postgraduate Studies in Cloud Computing & DevOps* — UNINTER | In progress
 
 ## 💻 Technical Background
 
 ### Programming Languages
 
-Explored through academic and independent projects:
+Java • C# • Python • JavaScript • C
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,java,python,js,c" alt="C#, Java, Python, JavaScript and C" />
-</p>
+### Software Engineering
 
-### Current Learning Focus
+Software Development • Object-Oriented Programming • Software Design • Git & GitHub
 
-Backend development, software architecture, databases, version control, and cloud technologies.
+### Tools & Business Technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,postgres,git,github,docker,azure" alt=".NET, PostgreSQL, Git, GitHub, Docker and Azure" />
-</p>
+SAP • AutomationEdge • Figma • Power BI • Excel • Looker Studio
 
-**Topics:** ASP.NET Core · REST APIs · SQL · Software Architecture · Cloud & DevOps
+## 📚 Current Learning Focus
 
-### Additional Knowledge
+- Backend development with Java and C#
+- REST APIs and database fundamentals
+- Software architecture and design patterns
+- Automated testing and clean code
+- Cloud computing and CI/CD
+- Data structures and algorithms
 
-SAP · Automation Edge · Power BI · Figma
+## 💼 Professional Experience
+
+My professional background includes:
+
+- Team leadership and quality management
+- Process analysis and continuous improvement
+- KPI monitoring and performance analysis
+- Technical support and business operations
+- Reporting, dashboards, and data visualization
+- Collaboration with stakeholders and cross-functional teams
+
+I aim to combine technical excellence with business understanding to build software that solves meaningful problems.
 
 ## 🚀 Engineering Goals
 
-- Build backend applications with C# and .NET
+- Build practical backend applications and REST APIs
 - Strengthen software design and architecture skills
 - Apply automated testing and clean coding practices
-- Explore cloud infrastructure and CI/CD
-- Develop practical, documented software projects
+- Explore cloud infrastructure and DevOps
+- Develop well-documented software projects
 
 ## 📂 Featured Projects
 
 My software engineering portfolio is under development.
 
-Projects will be added here as they are completed, tested, and documented.
+Projects will be published here as they are implemented, tested, and documented.
 
-## 📫 Connect With Me
+## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevylin-miranda-dos-santos-32bb4a200)
+[LinkedIn](https://www.linkedin.com/in/kevylin-miranda-dos-santos-320b4a290)
